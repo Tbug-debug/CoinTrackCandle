@@ -1,1 +1,1 @@
-# 리엑트를 이용한 Coin 트레커(CandleChart ver)
+# 리엑트를 이용한 Coin 트레커(CandleChart ver) 클론코딩
